@@ -1,5 +1,5 @@
-# Marlin_2.0.8_Homers_Odysseus_RS/TevoTarantulaPRO
-Aggiornamento Firmware Marlin Per Tevo Tarantula PRO/Homers Odysseues RS
+# Marlin_2.0.8_Homers_Odyssues_RS/Tevo_Tarantula_PRO
+Aggiornamento Firmware Marlin Per Tevo Tarantula PRO/Homers Odyssues RS
 
 Non trovavo nulla in rete per aggiornare questa stampante allora mi sono rimboccato le maniche e ho costruito questo firmware per aiutare chi come me ha questo modello di stampante.
 
