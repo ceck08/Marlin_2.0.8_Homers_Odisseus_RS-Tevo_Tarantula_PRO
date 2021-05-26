@@ -6,6 +6,7 @@ Non trovavo nulla in rete per aggiornare questa stampante allora mi sono rimbocc
 #Info Stampante 3D
 
 Scheda Madre : MKS SGen L v1.0
+
 Microcontrollore : LPC1768
 
 #Opzioni Firmware
