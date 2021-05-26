@@ -2,6 +2,7 @@
 Aggiornamento Firmware Marlin Per Tevo Tarantula PRO/Homers RS
 
 Scheda Madre : MKS SGen L v1.0
+Microcontrollore : LPC1768
 
 Aggiunto menu per cambio filamento
 Menu in Italiano
